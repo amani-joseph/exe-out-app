@@ -37,6 +37,3 @@ if (navigator.geolocation) {
     }
   );
 }
-
-
-
