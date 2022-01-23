@@ -1,9 +1,9 @@
 :root {
-  --color-brand--1: #ffb545;
-  --color-brand--2: #00c4ba;
+  --color-brand--1: #45f3ff;
+  --color-brand--2: #f14141e5;
 
-  --color-dark--1: #2d3439;
-  --color-dark--2: #42484d;
+  --color-dark--1: #2d34399c;
+  --color-dark--2: #42484dea;
   --color-light--1: #aaa;
   --color-light--2: #ececec;
   --color-light--3: rgb(214, 222, 224);
@@ -28,7 +28,7 @@ body {
   height: 100vh;
   overscroll-behavior-y: none;
 
-  background-color: #fff;
+  background-color: rgb(58, 23, 34);
   padding: 2.5rem;
 
   display: flex;
